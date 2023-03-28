@@ -1,5 +1,5 @@
 # Quick Bite 6 - Due Sun 4/2 11:59 PM
-To accept this assignment: https://classroom.github.com/a/x_M33HaS
+To accept this assignment: https://classroom.github.com/a/0BtKRKiQ
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
 
